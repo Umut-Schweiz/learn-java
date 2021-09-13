@@ -1,17 +1,14 @@
 package variables;
-
-public class Scanner {
+import java.util.Scanner;
+public class ScannerClass {
 
     public static void main(String[] args) {
 
-
         Scanner scan = new Scanner(System.in);
-
 
         System.out.println("Tam isminizi giriniz.");
         String tamIsım = scan.nextLine();
         System.out.println(tamIsım);
-
 
         System.out.println("Yaşınızı giriniz");
         int yasAlma = scan.nextInt();
@@ -29,7 +26,7 @@ public class Scanner {
         byte cocukSayısı = scan.nextByte();
         System.out.println(cocukSayısı);
 
-        scan.close();
 
+        scan.close();
     }
 }

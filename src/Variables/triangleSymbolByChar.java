@@ -1,6 +1,6 @@
 package variables;
 import java.util.Scanner;
-public class triangleSmybolChar {
+public class TriangleSymbolByChar {
 
     public static void main(String[] args) {
 
