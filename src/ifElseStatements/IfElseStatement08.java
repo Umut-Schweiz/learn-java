@@ -1,6 +1,6 @@
-package ifElseStatement;
+package ifElseStatements;
 
-import java.util.Scanner
+import java.util.Scanner;
 
 public class IfElseStatement08 {
 

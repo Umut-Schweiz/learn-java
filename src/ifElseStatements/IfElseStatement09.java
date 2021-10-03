@@ -1,4 +1,4 @@
-package ifElseStatement;
+package ifElseStatements;
 
 import java.util.Scanner;
 
@@ -25,10 +25,7 @@ public class IfElseStatement09 {
 
         //if else ıf  lerde sıra önemlidir.
 
-
-
-
-		/*if ( (yıl%1000)==0 )  {
+        /*if ( (yıl%1000)==0 )  {
 			System.out.println("Milenyum");       bu durumda bütün değerleri yazdınır 1000 yazınca ekranda Milenyum Yüzyıl Onyıl yazar
 		}if ((yıl%100)==0 ) {
 			System.out.println("Yüzyıl");
