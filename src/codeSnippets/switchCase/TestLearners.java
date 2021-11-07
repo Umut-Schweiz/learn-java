@@ -1,4 +1,4 @@
-package codeSnippets;
+package codeSnippets.switchCase;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package codeSnippets;
+package codeSnippets.doWhile;
 
 import java.util.Scanner;
 
